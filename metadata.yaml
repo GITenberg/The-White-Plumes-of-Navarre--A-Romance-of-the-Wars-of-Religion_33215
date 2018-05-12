@@ -1,0 +1,28 @@
+_repo: The-White-Plumes-of-Navarre--A-Romance-of-the-Wars-of-Religion_33215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crockett, S. R. (Samuel Rutherford)
+    alias: Crockett, Samuel Rutherford
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '1590'
+    url: http://www.gutenberg.org/2009/agents/1590
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
+description: ''
+gutenberg_issued: '2010-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Wars of the Huguenots, 1562-1598 -- Fiction'
+- !lcc 'PR'
+title: 'The White Plumes of Navarre: A Romance of the Wars of Religion'
+url: http://www.gutenberg.org/ebooks/33215
