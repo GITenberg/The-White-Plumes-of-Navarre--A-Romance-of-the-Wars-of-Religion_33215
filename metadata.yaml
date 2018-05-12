@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33215#The-White-Plumes-of-Navarre--A-Romance-of-the-Wars-of-Religion
 gutenberg_issued: '2010-07-21'
 gutenberg_type: Text
 identifiers:
